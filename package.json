@@ -1,29 +1,29 @@
 {
-  "name": "Shadow-Bot",
+  "name": "Toxic-Alexa",
   "version": "7.3.6",
-  "description": "Shadow is the Modified Version of WhatsAsena.",
-  "main": "./Shadow-Bot/bot.js",
+  "description": "Toxic-Alexa is the Modified Version of WhatsAsena.",
+  "main": "./Toxic-Alexa/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SPARK-SHADOW/Shadow-Bot.git"
+    "url": "git+https://github.com/MD-JIFI/Alexxii.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "ai",
-    "Shadow-Bot",
-    "Ashin"
+    "Alexa-Bot",
+    "Md-jifi"
   ],
-  "author": "Ashin",
-  "developer": "@SPARK-SHADOW",
+  "author": "mohamed jifi",
+  "developer": "@MD-JIFI",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/SPARK-SHADOW/Shadow-Bot/issues"
+    "url": "https://github.com/MD-JIFI/Alexxii/issues"
   },
-  "homepage": "https://github.com/SPARK-SHADOW/Shadow-Bot#readme",
+  "homepage": "https://github.com/MD-JIFI/Alexxii#readme",
   "dependencies": {
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
